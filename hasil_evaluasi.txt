@@ -1,0 +1,18 @@
+EVALUASI SISTEM PAKAR - 5 SKENARIO
+T1 - Daya: LULUS
+  Diharapkan: Masalah daya / PSU atau adaptor
+  Aktual: Masalah daya / PSU atau adaptor
+T2 - RAM: LULUS
+  Diharapkan: RAM longgar atau bermasalah
+  Aktual: RAM longgar atau bermasalah
+T3 - Display: LULUS
+  Diharapkan: Gangguan monitor atau kabel display
+  Aktual: Gangguan monitor atau kabel display
+T4 - Overheating: LULUS
+  Diharapkan: Panas berlebih (overheating)
+  Aktual: Panas berlebih (overheating)
+T5 - Disk: LULUS
+  Diharapkan: Penyimpanan HDD/SSD bermasalah
+  Aktual: Penyimpanan HDD/SSD bermasalah
+
+Hasil: 5/5 skenario lulus (100.0%)
